@@ -1,1 +1,245 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _Aka_AoLPUBsq = a; end)); return(function(h,...)local f;local d;local a;local u;local l;local o;local e=24915;local n=0;local t={};while n<725 do n=n+1;while n<0x12b and e%0x4d1e<0x268f do n=n+1 e=(e*721)%21266 local z=n+e if(e%0x1882)>0xc41 then e=(e-0xa)%0xb9ed while n<0x354 and e%0x1166<0x8b3 do n=n+1 e=(e-787)%45131 local l=n+e if(e%0x30f0)>0x1878 then e=(e*0x2ae)%0x58c9 local e=74128 if not t[e]then t[e]=0x1 a=tonumber;end elseif e%2~=0 then e=(e*0x12d)%0x9045 local e=12360 if not t[e]then t[e]=0x1 d=getfenv and getfenv();end else e=(e+0x280)%0x30e5 n=n+1 local e=71691 if not t[e]then t[e]=0x1 d=(not d)and _ENV or d;end end end elseif e%2~=0 then e=(e+0x263)%0x1a33 while n<0x399 and e%0x1502<0xa81 do n=n+1 e=(e*738)%46194 local d=n+e if(e%0x2e8c)<0x1746 then e=(e+0x10e)%0x4235 local e=8155 if not t[e]then t[e]=0x1 u=string;end elseif e%2~=0 then e=(e-0x236)%0x58c0 local e=21354 if not t[e]then t[e]=0x1 end else e=(e*0x13b)%0xbb20 n=n+1 local e=50408 if not t[e]then t[e]=0x1 o={};end end end else e=(e-0x201)%0x5cdf n=n+1 while n<0x168 and e%0x4cfc<0x267e do n=n+1 e=(e*717)%12723 local z=n+e if(e%0x21e0)>0x10f0 then e=(e*0x204)%0x9376 local e=99498 if not t[e]then t[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\67\86\83\113\82\74\100\89\0\6\115\116\114\105\110\103\4\99\104\97\114\100\68\80\89\107\76\77\99\0\6\115\116\114\105\110\103\3\115\117\98\89\67\72\71\74\107\85\99\0\6\115\116\114\105\110\103\4\98\121\116\101\71\114\119\113\112\98\102\105\0\5\116\97\98\108\101\6\99\111\110\99\97\116\119\69\111\107\82\97\108\114\0\5\116\97\98\108\101\6\105\110\115\101\114\116\103\100\102\68\118\75\122\114\5";end elseif e%2~=0 then e=(e-0x1d4)%0xb9e1 local e=80286 if not t[e]then t[e]=0x1 l=function(t)local e=0x01 local function n(n)e=e+n return t:sub(e-n,e-0x01)end while true do local t=n(0x01)if(t=="\5")then break end local e=u.byte(n(0x01))local e=n(e)if t=="\2"then e=o.CVSqRJdY(e)elseif t=="\3"then e=e~="\0"elseif t=="\6"then d[e]=function(e,n)return h(8,nil,h,n,e)end elseif t=="\4"then e=d[e]elseif t=="\0"then e=d[e][n(u.byte(n(0x01)))];end local n=n(0x08)o[n]=e end end end else e=(e+0x3ee)%0x9ed1 n=n+1 local e=244 if not t[e]then t[e]=0x1 end end end end end e=(e+236)%38823 end l(f);local e={};for n=0x0,0xff do local t=o.dDPYkLMc(n);e[n]=t;e[t]=n;end local function z(n)return e[n];end local u=(function(f,u)local h,t=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local l=f while true do n[0x03][o.YCHGJkUc(u,e,(function()e=h+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""t=0x000 break end end local d=#u while e<d+0x01 do n[0x02][t]=o.YCHGJkUc(u,e,(function()e=h+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 o.gdfDvKzr(n[0x01],(z((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+l)%0x100)));l=f+l;end end return o.wEokRalr(n[0x01])end);l(u(192,"sT,+Yt.R0-7jH{_5Yt"));l(u(94,"yv(do_T,8M*UA0Vc*(o*_McAMAd_0A,,UTU8TU _**(v0T8_vT0__TvM*vc6Md*Od_0_8((o*,_oVd8T(TA0M*(MTUvvvVA(_Ub(**dUUc,0h_U_TcvoMTV8MwMco(V(,U((U0c0h,M0_(Vd8*(,UV,*cMMA(c2v,c0o,*8_vU0LTT*_*Vo8VU*Yd*U__vvdMVoAV,**od8X(*ddA,,8vd*0_VV0*(dv0o83vU0vTT0cM(_vVMTTv0TAvv{(Ud_duT*do8*U8*(oMcodv*MUdT0d(V0)V_,vvUA8TvVVMdosV38dvo0,W8*M8doo0T*ooAVF_,(o*TC+*TUo_vc,M*d*0d,*v_U*oT2T,Uo*Ad8vv_THP,v8*,o*cTMv0oV_8:(oU,_U)_80_dV_M*(VUM,VpM_3cos_*/oo0,,U(_A*TTVoM_dT0(8*v_,Xvd(SAo_0Lo*AvAAUTVvT*_,ucUU*VVM(*vd_0V,MvMAAT_cc*0(cc,MAvdAYj*UDUU_v1TMA0U0V8T(UA0,(i8MvdTQ?M,(_0v_AU,"));local e=(-20291+(function()local t,n=0,1;(function(e)e(e(e))end)(function(e)if t>243 then return e end t=t+1 n=(n+367)%45228 if(n%1064)>532 then n=(n+526)%31097 return e(e(e))else return e end return e end)return n;end)())local r=o.nhDSRLbK or o.QuexjSv_;local le=(getfenv)or(function()return _ENV end);local d=2;local m=1;local f=4;local l=3;local function de(b,...)local s=u(e,"c T}*MixtI0Luzv% %LiI iu*I}}%zztL}zLztLIITM% xTM%%z0Lnt0Tt M I% ui0I L%zu%00tML*0}x%M*}x Mvxz50L }vvuI0*x%M0}MiITLututxuMx}Ti MXTu  IIL0Itxi*0vf Tzxu**uxxM*Tu=uztL IziI*}z0;uzIL%tvT TITiB zLILtti %IE0uTi0*MT)%LziL tu0LtT %1tz}0vtI0i0/xziE}x z%Mzi00xL}M}u *%Tz2iu i%iu00Mt3u 0tt>MI IvIL%M0}xSvvIu*%Tv}u%IMbLviu IuxxMTTzTuT}LvIIx**%T0BMv! %Mix}MaTx_Tzz%zH v}LiTi>Tz0LMIK*zzvz %uzxLTtzit*}MvMtI*L I*iM*e L}z}iTCz0ux0%tvMu} gvt*M%}0 M%.uL0it Iu}I tvzut0}uvL00ix*Mt}I0Tt Mi} UuT0} :IvxuMi gL% L%I0xM0%iux *T Lztv IIxtMtT,TugMi%*0TMU,zLLiI MutiTT%zztL}tviI**M}}0zxLItLii* i%M0** Tvzz tMtvMzu%00tMi?}L i% 0uvitTMz}t }vvuI0*%}I0}x MvLui0 uTuII}x0*zuM0txIM*T%Mv*0}tC%Ltui0hxLM TLI0xx*vTIE*}*%v%vzz*uTx.}v}LxITizItt%M%MT Ia zz*MTJ%LziL tu*xL Mz%0zx0vtIi*I}x%iz**0zt%i }u x*i}TT9%x00I0xiM*}i0xtIML}i  }s}IO}v*L%I*xfMMTII%x0MM}/#Lviu uvLxM*}Lltv}Lvvuv}u*Iuit*Mov%xz%L%iIx *I uIMxT*IT*%%T?T*%vz%*iT %uzxLTtzit0uMv%Lzv0%t0iMtMtIMx}} tvutTt%iu*Lz_L t*M%}0MvMv}v 0vTu0I0xxv%zL0}xvMItii}*TvM%}v}LxIMx MIvT%?zzux0TxTMTTiVzxxiITLhiv (Iqiv LLxLit*  tvxv}Lutviv*TTIzIzM0LtiiT*i%*qTzzLiT qTzMLrtLLLt0M%ii** LvzzM*B z%*u%00vuu 0txL%}zt0xtTMzxLtTi!}x.I% 0uIix*M*}L *xuMx}T_zvtu}zvvtI*}  MvMuNILL0L0I%it**TI%zI}0)xzMuz%L0IMxq*LTiJ }0%xITiz*tT}%vzIx*% 00*MT5%LziL tuix*T z%0zL0vtIi*t%tIit}I %v%zy00 I%xuz0tt}L}xzxzMu%u0xtxML}i  T%}i *vTI%0txxvLuII%x0MMx}x0MT}<7vxIM0Tzjtv} }vTuxu}Iux**LT/ItxI*uTx1T}  zsLvTIutzxI}%LxIviL*iT }%}% }%%uI0iITMv*i%EvvuI0Mx%%tzv0utxiTt t iiT%FL%2u*M0iuM }%_L%}Mv}z Tvzutv*v uzIztM*%uM0_xLMi} nuvx_jzzx0M%TvkIv*F*ptziLTIxiLA  }%tviLTI0o}zvLII*i%*0TM*I LLiI iu*xTT%zMt%*uviL*v %%0zMq*%DzvLMM%ii}v u%0Ii*KTq%*u%00utu%0It*MiT% Lt*it}t }vv M }vTLL0 ikMxTx 0v uI}* *vtu}Ivu%Lz0Tx}*xTujSxtM*TuFxvTTL%zv0*vTIj*z%L0IMxZIIiiX zuLxITiz*tT}}i I0 t%i0*MTe}IziL tuit*T z%tvMuttIi*}%*T%Mzj0LItiz}u x%Tz%0tt}MvM%T%v%u00MtiML}x  %=ux0itzMt}}4vv%u*0jx0MI*ZRLviu 0}xxM}Tz<tvzLvIIx*MCT0<MvmuzLMx *uTxTuzzLtI}tv0xT*%%z0LMIGtx*i* 8zzxLTtzit*}Mv%IviuIt0ii*h*M%iz 0u0xx*}z I%}u%0IITM%*uTL%fuv0iL*Mu}x Tvzv}0}x%MI}xf%vuuMLTt Mi}}3uBzuTIzxtx}}uSIviL%IuxMITTL tT0LuI0xTiTTt9}zvLIIti%*uTMATzLLtI xuMMTT%%ztu}tvi0**}  }zML}tLtu*  u%x%T0vttii}v u%*  00Ixx*}L 0% v*0xtTMz}tTLvvuu0*t M0}x K%zdM0 t>Mxi*Szvtu}LvIWM*}}.0vIu2zzxii}*xJxvxLzutx}*vTI i% L0ILxmiTTi^ zuuIIxiz*%T}TvzIL*t%xui Te.}zizztuix*T zn}z}LTtIiu}% u%MvBv%tii*}u %%Tz 0tIMIz}I tv%%u0MtDMLMi tvuuL0Tt MtxMJv%Lz*I%x%MM*iCLviu 0vt*MT}}1tvzLvIIx*i }vSMvxLL0ux *uTx *%tLtILivMiT*%%z0LM0*iL*0T 9*zxL*tzxttx v%uz*vgt0iI*.Tz iz Lhtxx}}z t%}vvL t*i}}0 I%!zT0iI}xx}x xvzuz0}xvMI*i tv0uL02tQMi} _u%Iz*Izx%M}}}<Iv*L%I0tuM.T%FivtLuIIxTMz}x{}v LII0i%*vTM}XPuLiI*iuttTT tztv}L%iI*x %}}zMuLtLIii} u%0zTuzttxv}vTI%%u%0ztMx3}L t% zvu*tTi }t}IvvuI0*I%Mv}M *vLu00 LvMx** uvtutIv0TM*T%X0vMu*ILx0M Tv.xv*Lz00tu*vTv>*%IL0IMxEiL*u= v LxIxizt0T} V%}L*IMi0xMTE%Lziu}0mix*I zh z}0vtIi*M* 0%0zeLTtii}}uTxp*uz0ut}tI}I Iv%z00ItSM%}iT vuu00Tt%i }} }vIv0I%x0MMM? IviuiIuxuMTi%Ft%MvvIIx0*%M%NMv+LLIitM*uTubTz%LtIMivxI}I%%z%LMITiLMMT VvvuLTI}itM* v%Iz*u%IxiM*i L%uz L}txx**z t%0uv0ut*M%}0Tx1IuL0vt M%}x Tvzz00txviT}* Tv0uM0;xLiu}  TvxuLIzx0M}}v} v*u*I00IMd} Gi% uiIxxx*z}t3}v LI0ixM*0TLrF1 LiI iuixT*%zzvL}I*iIti %7u%TL6ITiiiD u%xzT0zIti}** I%iu%0utMxTMM i%tuuzItTMz}t}}TtuI0Lx%i }MMTvLztLTxuM%}TT(vtu}IvtLi*T% }vM%-ILxiM }v }vTuxIt0}*vTIK*% zMIMxL*Li}R zuLxITxx*tT0%vv*L*I i0MMTI%LzuL I*ix*I zs0%}0vI4i*MX 0%MzAuL0 i *} x%Iuz0%t}xl*x *%xu0z%twML}iT}%%ux0LxzIT}}>vvIziLxx0M%}B*Mviu IuxxiTTz{%v}utIIxi*%}0  vVu Iixx*uTv8TKz MI}x**I*T%%Q LM0Tt**iTt%uvtLTtziti}}}%IzL0%I iM*x LVtz}0ut%iTM0 t%}uvLLILM%*} MhzuL0it iv*T T%xutupxvMI}*e%%uuM0xxLip} ovvxzTv xtMITv*xv*uiI0txi%TLXzv uxIxxT*z*t  zvuPI*xi*0*tN7%Lu*I x}*xTI%z%0L}IvuI**TM%0%tL#ITiix TT%xzt0zLvi}M% I?*v_00tLi=*L i%*uu0z0%Mz}% }vvuI0Mx%ML}M D%%ui0 xuM0}TazvtuMvLxIMuT%&LvMuRILxtIvTu gvTu}Itx}*vTLM z%u*IMxM*LTiN zve*ITxt*tTM%vzIL*t%0T*MTu%LzzL tuixM*T*%tvm0v0vi*}% 0Jxv}0LI*i iv x%TuzuttxMv*x *%zu0vxt5iz}t  %LuxzTxzMt}}TeqJu*0%x0IT}6fLviz}I%xxi}Tz}tv}LvIItiM*T0 xvE%xIix *uTx*0zzuiI}t-*ITi%%z0uxI>x0*iTI%uzxLTtzt**}T0%Iv}0%tLiM*C}e%izz0utviT}z tdMzt0II M%ix M%(uLLttiMu*M T %ut0}xvxI}z=%%tuM0vxLIt}  vvuuT0uxtt}TvWIv*z z xMiSTL*}v LuIxt*iMTt *zvvII*i%*0}xV zLutI i%*xTT%zztLztvxx**} %0zxL-tLxz* TL%xzL0ztti}}vT<%*zL00I*iA}u i% uv0xtvMz}% }vvuILit*M0*T .Tiui0 xuiIx !z%iu}z-xIM*T%T0bTug0IxiM%Tu*IvTu%0ix}MzTI}*z%L0IMtT*zTi  zu%*ITiz*t}MsuzIuMt%I0*MTs%Lvtu7tuxI*T*u%tz}0vtIt }%Tt%MvT0Ltti }uMI%Tzu0ttzMv}I *v% %0MtuML*M  vzux0TtTMt}%lv%(u*I%x0ix}I(L%}u z*xxMTTz 0vLLv0xx*t T0kMvhzL0 x M0Tx !zz%0I}teiMT*1vz0vMI7iL*i}}C}zxuTtz0M*} v%IviL*t0xi*F*L%iz 0uIILI}zT0%}%T0It*M%}0TI%ozI0iI}Mu}I Tvzuz0}tzMI}%h%v0uM0otiMi}z:u%iuTIvxtiM}T6I%BL%uKxMM+TLTivzLu0}xTMITt*MzvuLIti%MxTM IzLLiI iuxzTTPIztLMtviL**} }IzMLztLIt*  u%x%TLvttxn}vTi%*  00Ixx*}LT*% %u0xtTMz*0 *vvzt0*uTM0}M =%zzL0 tuMxiTSzvtu}L(tMM**p^0TtuFILxiM }xfxv%Lz0Ix}MgTI *T}L00 x^M}TilvzuuIz izMMT}}?zIL*t%t0M,TsXtziLvtu0I*TT%8)z}LutII*}% 0%MvTu*tix>}uTL%Tuz0tIMxL}IT*v%%00Mt4ML*tT vuzt0TI Mt}}5vvIzMI%txMM* VLvtu 0uLLMT}IQt *Lv0ix*x%txKMvuLLL*x MtTx *v}Lt01ivM0T*%%z0zMI}iLM}T fIzxLItzx0M* v?xz*vLt0iM*aTz%%z LLtxIv}z t%}v?0ut*i%}0M %+uL0it iM}x %vzzt0}t&MI**M}v0z 0Vt Mi}v^u%IvTIztMM}}%GIv*L%L0tIM)}t_ivvLuIvxTM%}in}vuLIL i%*0TM T%xLi0piui*TT%zztuMI*iIM* % xzML;tLii** u3*zTLzttiM}vTI%iu%LitMIv}LT}% zvuitTi0}t vvvuI0*I%xT}M zvLz}0 I%MxMTTivtzPIvtiM*M e0%MzzILtTM *%_xv%Lzutti*v}M_* ML0zIxdML}%W vtLx0Tiz*0T} )%ML*Iui0iLTl%Lziz Itix*% z.Mz}%GtIxi** 0-}zkz*tii }u x+ uzLMt}iU}I iv%zuLutNiI}iTLvuux0TIzM0}} uvIzTI%LuMM*TTTviz(Iut0MTTz,t%Mu IIt**%M0sMvSLLIit**u}MKTvzLtIMivMITu%%vxLMLLiLM*T Uu LLTI0itM} vWMz*u viiM*v L uz 0utxtT}% t) uvLxt*0 }0Tx%zuLLMt I }x Tvzut0%xvix}*  v0ux0K0Li}}  0vxu*IztxM}*O zv*uvI0tiM7TLYie uIIxt *z}xq}vMLI0ix**0}MSj-ILiI iuMI}I%zvIL}LuiI** %)uztL{Iziii% u%xzT0z0Ji}*z I#iu%0utMx(M} i%%uuzLtTiu}tT}%tuILTx%i0}M uvLviL0xuii}T Ivtu*IvIIiuT% IvMu%ILLMM }T}*vTuvItxx*vT0B*vyL0IMt**LTiF z%LxITiz*t}*%vvtL*0Yi0*iTPm r}L ILix*M z%Iz}L#tIi*M} 0%MzHLxtii }u x{iuz0tt}M%}I *v%v0vht_iL}i  vu%v0TIzM%}} vvIz*I%LIMM}1^vviz}IutiMTTz4tv}uzIIt**%}uAMv LLIixL*u}xUTvuLtI}iv*ITz%%v0LMI iL*xT %uv%LTtzit** v%Iz*0%I iM*H L xz 0utxi**6 t%}uv xvIzi}u I%suL0iuxuL0Mtivzut0}xvMI}**%MIsM0TtMMi} lu}LTx MvuIiIzxMM}} uzxxMMTLliv %%.izvLuI0CMv*LII*i%tzI*iu*0Ttu*iv*%TT%zzt8tzxLuLtI iI*s Mtzi0*  u%xTM ifTut*;TI%*u%00uxu Ivt Mt}v i%xuLIuMiMz}M }% tz}x uvLui0 L%ui0*xL*z}M%Qz0LtItx%Mtu{ILxiM Tu.xvT&LztxMMMTI;*z%%zh*zvLItLi*MwLII0iz*tT}MT}vTu2}Lz0vI0i4ziL tuix*T z%tz}vvtIi*}% 0%Mz:0L0i0 }u x%Tuz0tt}MvxzM*% zT0Mt2MLtLM0T%}i *vLLz0M Cvzu*I%x000x*x*M}u IuxxMTTzAtu}TzzIxiM}T0.Mvyy%%LvIufTI9izzLtI}L}LxIIiuzuu}I=iL*ix*iL*uT*%puzIix%ix*x% %Iz 0* zjbz 0utxLi0TIsix R v%tz}0It}%Tz 0it Mutxx}M%Tz  %TML}IG%v0uM%ML%L%Iv}vvIz}IzxtM}xLxtMI}T%%LxuMI%x0MOT0utLMLII ii*ILLIzi%*0TMM**} %%*zxLMtxxY*LLMIiiI** %*0**T}%*z000tLiMzT0ztti}}v I%*Tzv0txix}L i% }T I% u0t0M0}.uI0*x%M0}M AvL%iv xuMx}T&zvtu}IvxIM*}  TvMumILL%L%I%xL*}TL%Lztt%TI5*z%uuvMx_*vTiTTzuLxITtzM T}# zILxt%iL*M}Tw ziLMtuxv*T z%tz}L}tIix}% u%MzT0LItxT}u L%Tvi0tt}MvMI Iv%uv0Mt*ML}x  %vv10TtTMtM}svvIu*L x%MM}i5LvIu Iuxxi*i01tv0LvLIx**%T0 xvTLLIvx MuTxUTzzLt0Liv*zT*{xz0LxIDxL*zT %%zxL0tziu*}TvWiz*LTt0t *G u%iv 0ztxiM}zTu%}uv0IIix }0 I%5z 0it MuMxTCvzuu0}tTMIMTN%%u% 0gt4Mi}u^uvxuT0%xIM}}*bIv%L%I0xMiT}L:ivtLu0TxT*zTtU}%MLIIti%M TM7TzLuiIziu*0TT_iztLxtvxLMx %%vzMLitLii* }u3LzTL ttix}v}x%*v zitMiM}LTI% uu0xI*iT}t Ivvzu0*x%M0*xTtvLuz0 t%Mx}THzvtz}IvxzM*}iO0vxup0Lx0M T%PxviLzIux}i(}Ly*v}L000xm*LTiT vLLxIiiz*uT}jFzIz*Izi0*IT,%%ziuxtuxxti z%Lz}L&tIit}%*0*vzN0vtiiv}u}i%TuzuMt}iT}I *v%u00MI&i}}i *vuz%0Tt Mt*MT*vIutI%ILMM}r=LliuLIuxLMT} 8tv*Lv0LtT*%T%bM% LLIix *u}dCTv LtIMiv*LT*  %ILMIMiLMtT %uzxzTL}it*t v%vz*L.t0xx*x L%uz uutxiT}zT0%LuvL+t*iv}0 M%muLL%t i }x Ivzu00}tviI}* }v0u%0#t+Mi*  zvxuiIzIrM}} #I%iu I0x0M=*uEiv LuLxtW*zTzF}v}LIIMi%MuMM+yv LiItiu*xTT%zzIL}I}iI*i %%uzMv9Izii*i u TzTLLttxMMt I%0u%LRtMi=}L}i)Iuu0ztTi}}t} vvzL00x%i }MTzvLui0 tviP}T MvtvCIvxIM** N%vMuIILI}M TuoxvTe}ItxI*v}T;*v L00Mt8*LTL- v LxItizMt}I%vzvL*0xi0*tT; L%TL ITix*M z Tz}uvIzi**M 0%LzOLxtii *_ x%0uz00t}Mv}I *>Mu00Lt9i}}i Tvuux%txzML}} -vIu*I%x0M%}8^LviuTIuxxMT}56tv}LvIII**%T0+Mv LuItx0*uTx8T} Td?Mz}Lutuiv*i IIXiL*iT %uzxLTvz0t*MTi%Iz*0%z}z}L}t%Mx}%g%vui**  t%}uv%uvzzII% x%zuL0it 0}0}t *%TIJ%z u IMx}MI}u }xzMv} (uvxe*%vvLLtxvi0Mi}}I0xMMnTL2iv Luu%LT*zTtK}zvLII*i%}0i*VTv}LiI iuI}tLi**_Tx%xzx0LT 1*zMLmtL0z0iIS*0}x %%vuu0 xv%iz000tMiNxztTiS}L *uxu}IvxtM }z0ittM0}M Y}*}* Mv uM0MxiMu}u0&txM*T%+0}*}Mg%z0u3ILxIT}T0%0zuL}Ixxtv uMIMx+*Lxtii*TT}%xzVLut*iu}u II x3*MT<%L ITf%tziL*MJ%0z00vtIi*0Mtui*}z%zuz0}}u x%Tuz0tt}Mv}IM*% zx0MtYMLtIxvML}i ivM0tI%i%Mu}t1tzzMx}tqLviu vIztuiITx0*u %3MxiMxT0VMv?vuu00LxuMx}uPzvtIMxu*IT*%%T  0^*0%0LI*M%}uT2% uIL ITiuziLtt0iM*WITiM*} x%0zTIvxLMtzC0ut*M%}0Mvi}su0i L%Mz(0Ltii xuLzML}0_%v0uM%=zuutIix0MLu*0xxtM}Tv*LMiTtU zzu*IIiLM*T%IIxL*zTt/}}TTTq z*IItL**}uT%I}x>*xTT%z zT ?}zi*iT*%0zMLh%Lux00tvi0z*L tti}}vtQMM}uw%txi}}L i% }0Du%Iti}t }vvzLgtx%M0}MT%vLui0 Iui}}T;zvtu}Ivt*M**  zvMuTILt(M TugxvTuLItx}*vTL.*v L0uMt *LTi, %xLx0*izxtTv%vzIL*IMi0*iTkSz%KL tzixMT z%tz}uvIui**A 0%iz#Lutix}*u x%*uz0Lt}Mv}ITi%zu00tt1Mv}i  vuzI0ixzMu}}  vIu*I%x0ii}mXuviuMIuxIMT}z Tv}LvIItT*%TL4M jzMIix *u*}-T%TLt0MLt*ITM%%%tLMI)iLMtTt%uzILT0*it*} v I% 0%tuiM*T LVuz 0utziT}% t%iuv0It*M%}v M% uL0it M%}x i%Tut0}xvxx}* yv0vMLLxLMu}   vxz0Izt0MtTv  v*uiI0xMM&TL uv uTIxx0*zT0R}v*,zI*xM*0*}GrzuLiI iu*L}T%zztL}0uiI*M %T0fiL_I{iiM1 u FzTL%0xi}** I  u%00tMtj*I i%xuu0ztTx }t}}%uuI00x%i4}MT}vLzivMxuMu}TT vtuIIvx%xxT%=LvMz*ILxxM TvJxviuzItx}*v}z?*vVL00xt%*LTx> vpLxITizitTi%vz0L*I(i0iMT5ezz%L tvix*v z%tz}0v0*i**5 0%xz/0ztiI MM x%}uzLMt}ix}I**% u00itoi/}i Ivu%xLMxzMI}} )vIziI%t0iL}6euvizLIuxxMTTz Tv}LvIIxM*%T07MvXLLIix *u} =TzzLtIMx%*IT*%%}  iE*z?LtxMiv}tT,/)zt0*I3Mv*T Tk}ixM9 L%iz X}vtzi0Tt0*M}}7%%bu*IztIM }IDIviMv*. Tvzut 0vzuLI%tTM0Tib}v_Mi} wuvxuTIzxtM}Tv_LvLL%I0xMLiIzxM*v>vzvL**%T%b}zvLIvtz*LuIxi **T*I iu*xTT%zztL}xv0t*iTI%0zMLavTuxLMt iI M u%*zTLC L%0u%00tM0}00tTi2}vz0tTMz}t }vvuIt*vvI0*  AvLuiL}t*Mx}T3zvLu}IvxIx*}}_0vMuXILxiMxTu I%tLzIIx}MxTI!*z%z0Iux!*uTisTzuLuITx%iTT}pNzILvt%i0*M}T/tziL*tux *T z%tvMLLtIit}%T*%Mza0Lti0t}u t%Tz 0ttMMv*ITLv%u00MttML}x   uu%0TxzMt}M_vvzu*u%IiMM}(dLvxu 0}xxMT* {tv}LvI0x**%T0_Mv{LLIix *zTxXTzzL0IIiv*IT**%}LTx%MzIL0TM%uzxLTtz0 *} v%Iz*0%t0iM*CM*%izT0uttiT}z t8} T0It*M%}L M% uL0itLMu}x Tvvut0}xvMI}*e%v0uM0 xLMi} ,vvvuTIzxt0IIxxu*zT /iz0MiTLYiv LuLMxT*zTt_}zvLII*i%iTTM) zLLiI iu*x*T.VztL*tvi0**Tp%0zMuTtLix*  z%xzT0zItx }v I%*zl00tii_}L x% uu0xt}Mz}t }vvuI0*x%M0*f rvLui0 xuMx}TWzvtu}uiLIMi}i80vMu<7 vtuyIIMITI%%I0xz*vTIh*}i LOIzMLziIx+*tTiW*i%M T}%vzITL%vzuLmI}iL}x *% ix*T z%tz}0vtILIx% u%LzG0Lti0*0Lt}i }%zLtMi%}I *v%T li%*up0tiMMvTt J%JutI*tj*v}TqT%}MM}3_Lviu Iuxx}TiuVtv}LvIIx**%T0MuTGLzIzx *uTxMi*TT0=Mu%LTITX v0LMIliLIztTxk}uT*z%uz0It0Mv}xT}vLz}0}t+>Tz 0utxx**M t%}uv0zt*M%}0}M/}uL0it Mu}x uvzz00vxvM0}* Mv0uM0XILx}} ;zvxu}Izx0M}*Y 6v*u I0xiM3TLJi%}uTIxxM*zTzQ}zvLI0itL*0TIo,v*LiI iu*xiI%zzIL}ITiI*i %Z0vtLBtLii** u%tzTzztIi}}v I%%u%LTtMIb*% i% uu0vtTiM}t }%uuI0*x%ML}M evLui0 xuMx}TTMvtu}IvxLMxT%d0vM?IFvLxM}}}lxvTLz%vvMLzIiMiTi%uIxxt*LTil TtTZ%IzMLutuiu*fLiI0i0*MTW*T}LTMu%u%0LtIMu*M }%xi*}% 0%MzW0LtiM xL t%Tu%0%t}Mv}IMtM*}z I%Tu00% }%iux0TxzI%IttT}uTI  %6LvI}xovtu%IuxxMTxuxzMxTT1tv}u iLxT*TT*%Lz%uZTIAuzzLtI}LGLLtzii*TTI%vzYLII*%vzuLTtzitL}x%iT*iTTtuxB*) L%i } t%iz 00MzMI}*Qvvxz}}0 M%buL0it Mu}x Tv%u%0}xvMIt*xL*L}t *v*LI}} BvxuTIzLzu 0}xiviuMI0xMM9ivxM*zTLEI0M*%}>O}zvLIv zyLvt0xT** x%zivMTTT%zztVM%}u%Lqt*Mz*I  %IuI0i vdMzT0ztt000}tz}t}* zvtuM0Ix0MT}0 L%MMz}t }vvuI0*M%uIxM T%tui0 xuIvIvxu*0T*f0uuLuIPivM*}xsvxtM0TuaxvT}*PxvMLIIux**l z%0xT*%Ti8 zu v%}z00zTM6izIL*t%0u0iI}i;Ti T%vzLx  z%tz}u2vzi*}% 0wuzS0Ltit *T x%Tuz0tt}ii}ITimTu00xtlMv}i  vuux0LxzMt}} #vIuiI%00iT}j5LviuLIuxuMTMzQvv}LvIItI*%}>)M%TuMIixT*u}x!TzzLtL}xu*ITM%%zLLMITiLMt*0%uzILT0 it*} vjLv*0%tziMM* L%iz LvI%iT*  t&xuv0It*M%*v M% uL00t Mv}xTT%tut0}xviT}* hv0zxL xLMx}  xvxuTIzt0iMTv1Lv*zMI0xMMU*LT v LvIxx**z}Ly}zvLLI*x *0TtfCzLLiI 0!*xT}%zztL}I iI*tT%%0zML30Iii*T u xvz0ztvi}*} I%Mu%Lut0i.*} irIuu0xtTMz*v }%*uI0ux%Mu}M i Tui0xxux7}T9vvtu*Ivxzi*T%F0vMzIILxxM }- xvTLzItI *vT0X*9%vLIMxM*L}tn vILx0*tu*tTI%vvtL*t%i0iMTv%LzuL ITixM} z tv 0vt%i**M 0R}znLLu0i *  xN}uz0vt}i*Mu *%/u0LttjMu}i }vuuLLTxzMt}}T vIuMI%tux*}!fuviuuIuxxMT*zT}v}u{IIx**%TvKMvXLzIix}*uT0WTzzLtI}0T*ITM%%z0LMI}iL*0} %uzxLTLIit** v Iv%0%I&iM*M L%xz LvtuiT*M t%%uv0It*M%M^ M%iuL0vt Mv}x t* ut0IxvtM}* gv0uM0Gx%ii} 3uvxvvIzxIM}*vT*v*uMI0x0MN}T5iv v%Ixxt*zT0a}z%LII0IT*0Ti33&WLiITiu*ITTl vtL}tviIiI %%LzML;IMii*  u%tzT0ztti}}v I%*u%");local n=0;o.MXEFDIta(function()o.kVYdbcRs()n=n+1 end)local function e(e,t)if t then return n end;n=e+n;end local t,n,z=h(0,h,e,s,o.Grwqpbfi);local function u()local t,n=o.Grwqpbfi(s,e(1,3),e(5,6)+2);e(2);return(n*256)+t;end;local c=true;local c=0 local function p()local e=n();local n=n();local l=1;local d=(t(n,1,20)*(2^32))+e;local e=t(n,21,31);local n=((-1)^t(n,32));if(e==0)then if(d==c)then return n*0;else e=1;l=0;end;elseif(e==2047)then return(d==0)and(n*(1/0))or(n*(0/0));end;return o.ICcLXQri(n,e-1023)*(l+(d/(2^52)));end;local k=n;local function _(n)local t;if(not n)then n=k();if(n==0)then return'';end;end;t=o.YCHGJkUc(s,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+c),#t do e=e..o.YCHGJkUc(t,n,n)end return e;end;local k=#o.jTrErIeW(a('\49.\48'))~=1 local e=n;local function te(...)return{...},o.kcoOuxMX('#',...)end local function ne()local e={};local c={};local s={};local a={s,c,nil,e};local e=n()local h={}for d=1,e do local t=z();local e;if(t==1)then e=(z()~=#{});elseif(t==0)then local n=p();if k and o.cXrOPAqM(o.jTrErIeW(n),'.(\48+)$')then n=o.fMPxmYcL(n);end e=n;elseif(t==2)then e=_();end;h[d]=e;end;for o=1,n()do local e=z();if(t(e,1,1)==0)then local z=t(e,2,3);local r=t(e,4,6);local e={u(),u(),nil,nil};if(z==0)then e[l]=u();e[f]=u();elseif(z==#{1})then e[l]=n();elseif(z==b[2])then e[l]=n()-(2^16)elseif(z==b[3])then e[l]=n()-(2^16)e[f]=u();end;if(t(r,1,1)==1)then e[d]=h[e[d]]end if(t(r,2,2)==1)then e[l]=h[e[l]]end if(t(r,3,3)==1)then e[f]=h[e[f]]end s[o]=e;end end;a[3]=z();for e=1,n()do c[e-(#{1})]=ne();end;return a;end;local function de(t,e,n)local d=e;local d=n;return a(o.cXrOPAqM(o.cXrOPAqM(({o.MXEFDIta(t)})[2],e),n))end local function g(c,k,z)local function de(...)local u,_,s,ee,j,n,a,ne,y,b,p,t;local e=0;while-1<e do if e<3 then if e>=1 then if-2~=e then for t=18,66 do if e<2 then s=h(6,49,3,82,c);j=te ee=0;break;end;n=-41;a=-1;break;end;else s=h(6,49,3,82,c);j=te ee=0;end else u=h(6,67,1,18,c);_=h(6,41,2,87,c);end else if 4<e then if e>=4 then repeat if e>5 then e=-2;break;end;t=h(7);until true;else t=h(7);end else if 2~=e then for n=40,65 do if e~=4 then ne={};y={...};break;end;b=o.kcoOuxMX('#',...)-1;p={};break;end;else b=o.kcoOuxMX('#',...)-1;p={};end end end e=e+1;end;for e=0,b do if(e>=s)then ne[e-s]=y[e+1];else t[e]=y[e+1];end;end;local e=b-s+1 local e;local h;local function s(...)while true do end end while true do if n<-40 then n=n+42 end e=u[n];h=e[m];if 51<=h then if h>=76 then if 88<h then if 95>h then if 91>=h then if 90<=h then if 90==h then do return t[e[d]]end else local o;for h=0,6 do if 3<=h then if 4<h then if 1<h then for r=41,91 do if h~=5 then t[e[d]]=t[e[l]][e[f]];break;end;t[e[d]]=z[e[l]];n=n+1;e=u[n];break;end;else t[e[d]]=t[e[l]][e[f]];end else if 4~=h then t[e[d]][e[l]]=t[e[f]];n=n+1;e=u[n];else t[e[d]][e[l]]=t[e[f]];n=n+1;e=u[n];end end else if 0>=h then t(e[d],e[l]);n=n+1;e=u[n];else if 0~=h then repeat if h~=2 then t(e[d],e[l]);n=n+1;e=u[n];break;end;o=e[d]t[o]=t[o](r(t,o+1,e[l]))n=n+1;e=u[n];until true;else t(e[d],e[l]);n=n+1;e=u[n];end end end end end else local r;for h=0,6 do if 2>=h then if 0>=h then t[e[d]][e[l]]=e[f];n=n+1;e=u[n];else if h~=1 then t[e[d]][e[l]]=t[e[f]];n=n+1;e=u[n];else t[e[d]]=k[e[l]];n=n+1;e=u[n];end end else if 5>h then if h~=-1 then for r=41,93 do if h~=4 then t[e[d]]=z[e[l]];n=n+1;e=u[n];break;end;t[e[d]]=t[e[l]][e[f]];n=n+1;e=u[n];break;end;else t[e[d]]=t[e[l]][e[f]];n=n+1;e=u[n];end else if h>4 then for f=44,70 do if h>5 then r=e[d]t[r]=t[r](t[r+1])break;end;t(e[d],e[l]);n=n+1;e=u[n];break;end;else t(e[d],e[l]);n=n+1;e=u[n];end end end end end else if h<=92 then local r;for h=0,6 do if h>=3 then if 5<=h then if 5~=h then t[e[d]]=t[e[l]][e[f]];else t[e[d]]=z[e[l]];n=n+1;e=u[n];end else if 4>h then r=e[d]t[r]
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+
+local Window = Fluent:CreateWindow({
+    Title = "RTX Shader " .. Fluent.Version,
+    SubTitle = "By M1NEGERO",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(400, 300),
+    Acrylic = true,
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.LeftControl
+})
+
+local Tabs = {
+    RTX = Window:AddTab({ Title = "RTX", Icon = "weather" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+}
+
+local Options = Fluent.Options
+
+local DefaultSettings = {
+    Brightness = game:GetService("Lighting").Brightness,
+    GlobalShadows = game:GetService("Lighting").GlobalShadows,
+    OutdoorAmbient = game:GetService("Lighting").OutdoorAmbient,
+    TimeOfDay = game:GetService("Lighting").TimeOfDay,
+    FogEnd = game:GetService("Lighting").FogEnd,
+    FogColor = game:GetService("Lighting").FogColor,
+    WaterColor = workspace.Terrain.WaterColor,
+    WaterReflectance = workspace.Terrain.WaterReflectance,
+    WaterTransparency = workspace.Terrain.WaterTransparency,
+    WaterWaveSize = workspace.Terrain.WaterWaveSize,
+    WaterWaveSpeed = workspace.Terrain.WaterWaveSpeed
+}
+
+local function applyReflectanceToParts()
+    for _, part in pairs(workspace:GetDescendants()) do
+        if part:IsA("BasePart") then
+            part.Reflectance = 0.4
+            part.Material = Enum.Material.SmoothPlastic
+        end
+    end
+end
+
+local function applyReflectanceToCharacters()
+    for _, player in pairs(game.Players:GetPlayers()) do
+        if player.Character then
+            for _, part in pairs(player.Character:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    part.Reflectance = 0.4
+                    part.Material = Enum.Material.SmoothPlastic
+                end
+            end
+        end
+    end
+end
+
+local function activateFirstToggle()
+    local lighting = game:GetService("Lighting")
+    lighting.Brightness = 2
+    lighting.GlobalShadows = true
+    lighting.OutdoorAmbient = Color3.fromRGB(128, 128, 128)
+    lighting.TimeOfDay = "14:00:00"
+    lighting.FogEnd = 1000
+    lighting.FogColor = Color3.fromRGB(200, 200, 200)
+
+    applyReflectanceToParts()
+    applyReflectanceToCharacters()
+
+    local bloomEffect = Instance.new("BloomEffect")
+    bloomEffect.Intensity = 1
+    bloomEffect.Size = 24
+    bloomEffect.Threshold = 2
+    bloomEffect.Parent = lighting
+
+    local colorCorrection = Instance.new("ColorCorrectionEffect")
+    colorCorrection.Brightness = 0.05
+    colorCorrection.Contrast = 0.1
+    colorCorrection.Saturation = 0.2
+    colorCorrection.TintColor = Color3.fromRGB(255, 255, 255)
+    colorCorrection.Parent = lighting
+
+    local depthOfField = Instance.new("DepthOfFieldEffect")
+    depthOfField.InFocusRadius = 50
+    depthOfField.NearIntensity = 0.1
+    depthOfField.FarIntensity = 0.1
+    depthOfField.Parent = lighting
+
+    -- Loop to continuously apply reflectance
+    task.spawn(function()
+        while Options.Toggle1.Value do
+            applyReflectanceToParts()
+            applyReflectanceToCharacters()
+            task.wait(5) -- Adjust the time interval as needed
+        end
+    end)
+end
+
+local function revertSettings()
+    local lighting = game:GetService("Lighting")
+    lighting.Brightness = DefaultSettings.Brightness
+    lighting.GlobalShadows = DefaultSettings.GlobalShadows
+    lighting.OutdoorAmbient = DefaultSettings.OutdoorAmbient
+    lighting.TimeOfDay = DefaultSettings.TimeOfDay
+    lighting.FogEnd = DefaultSettings.FogEnd
+    lighting.FogColor = DefaultSettings.FogColor
+
+    for _, effect in pairs(lighting:GetChildren()) do
+        if effect:IsA("BloomEffect") or effect:IsA("ColorCorrectionEffect") or effect:IsA("DepthOfFieldEffect") then
+            effect:Destroy()
+        end
+    end
+
+    for _, part in pairs(workspace:GetDescendants()) do
+        if part:IsA("BasePart") then
+            part.Reflectance = 0
+            part.Material = Enum.Material.Plastic
+        end
+    end
+
+    for _, player in pairs(game.Players:GetPlayers()) do
+        if player.Character then
+            for _, part in pairs(player.Character:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    part.Reflectance = 0
+                    part.Material = Enum.Material.Plastic
+                end
+            end
+        end
+    end
+end
+
+local WaterToggleActive = false
+
+local function activateSecondToggle()
+    local terrain = workspace.Terrain
+    local waterColor = Color3.fromRGB(12, 84, 92)
+    local waterReflectance = 0.5
+    local waterTransparency = 0.5
+    local waterWaveSize = 0.5
+    local waterWaveSpeed = 50
+
+    WaterToggleActive = true
+
+    task.spawn(function()
+        while WaterToggleActive do
+            terrain.WaterColor = waterColor
+            terrain.WaterReflectance = waterReflectance
+            terrain.WaterTransparency = waterTransparency
+            terrain.WaterWaveSize = waterWaveSize
+            terrain.WaterWaveSpeed = waterWaveSpeed
+            task.wait(1)
+        end
+    end)
+end
+
+local function revertWaterSettings()
+    local terrain = workspace.Terrain
+    terrain.WaterColor = DefaultSettings.WaterColor
+    terrain.WaterReflectance = DefaultSettings.WaterReflectance
+    terrain.WaterTransparency = DefaultSettings.WaterTransparency
+    terrain.WaterWaveSize = DefaultSettings.WaterWaveSize
+    terrain.WaterWaveSpeed = DefaultSettings.WaterWaveSpeed
+    WaterToggleActive = false
+end
+
+local function createButton()
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.ResetOnSpawn = true
+    screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 100, 0, 50)
+    button.Position = UDim2.new(0, 20, 0, 20)
+    button.Text = "Toggle Window"
+    button.BackgroundColor3 = Color3.fromRGB(45, 45, 48)
+    button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    button.Font = Enum.Font.SourceSansBold
+    button.TextSize = 18
+    button.BorderSizePixel = 0
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+
+    local UICorner = Instance.new("UICorner")
+    UICorner.CornerRadius = UDim.new(0, 12)
+    UICorner.Parent = button
+
+    button.MouseButton1Click:Connect(function()
+        Window:Minimize()
+    end)
+end
+
+game.Players.LocalPlayer.CharacterAdded:Connect(function()
+    createButton()
+end)
+
+createButton()
+
+do
+    Fluent:Notify({
+        Title = "RTX Shader",
+        Content = "By M1NEGERO",
+        Duration = 5
+    })
+
+    Tabs.RTX:AddButton({
+        Title = "P|Shader",
+        Description = "This is a single button",
+        Callback = function()
+            getgenv().RTX_Name = "rtxnamehere"
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua'))()
+        end
+    })
+
+    local Toggle1 = Tabs.RTX:AddToggle("Toggle1", {Title = "Global Realistic", Default = false })
+    Toggle1:OnChanged(function()
+        if Options.Toggle1.Value then
+            activateFirstToggle()
+        else
+            revertSettings()
+        end
+    end)
+    Options.Toggle1:SetValue(false)
+
+    local Toggle2 = Tabs.RTX:AddToggle("Toggle2", {Title = "Water Realistic", Default = false })
+    Toggle2:OnChanged(function()
+        if Options.Toggle2.Value then
+            activateSecondToggle()
+        else
+            revertWaterSettings()
+        end
+    end)
+    Options.Toggle2:SetValue(false)
+end
+
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+SaveManager:IgnoreThemeSettings()
+SaveManager:SetIgnoreIndexes({})
+InterfaceManager:SetFolder("FluentScriptHub")
+SaveManager:SetFolder("FluentScriptHub/specific-game")
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+SaveManager:BuildConfigSection(Tabs.Settings)
+Window:SelectTab(1)
+SaveManager:LoadAutoloadConfig()
